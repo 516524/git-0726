@@ -4,6 +4,8 @@ public class HelloTest {
         System.out.println("hello world");
         System.out.println("hot-fix");
         System.out.println("push text");
+                System.out.println("nishizhu");
+        
     }
 
 }
